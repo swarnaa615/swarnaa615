@@ -1,26 +1,16 @@
 # Welcome to My Hub! 👋                                                                                                                
 
-I'm a **Junior Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
-
-[![roadmap.sh](https://roadmap.sh/card/wide/64d46e76aa497d7fa51f0ba2?variant=dark)](https://roadmap.sh)
+I'm a **Business & Data Analyst** who's expertise lies in transforming raw data into clear, actionable insights. I focus on building robust systems and reports that drive strategic decision-making and business optimization.
 
 
 ## What keeps me busy?
 
-**_Building stuff_**: Whether it’s a web app, a backend service, or a small AI project, I enjoy creating things from scratch.
+**Predictive Modelling**: I thrive on creating new correlation rules and constructing sophisticated forecasting models (in Excel, Python, and R) to enable accurate business predictions.
 
-**_Learning new things_**: Right now, I’m diving into Advanced Data Structures and System Design to level up my understanding of how things work under the hood.
+**_Analyzing & optimizing_**: I specialize in Business Process Analysis (BPA), using As-Is/To-Be models to streamline workflows and reduce processing times. I particularly enjoy identifying data errors and standardizing datasets for improved reliability.
 
-**_Solving puzzles_**: Coding isn’t just a job for me; it’s like solving a puzzle, and I love every minute of it.
+**_Creating BI Dashboards_**: I create unified, executive-level reports and dashboards (Power BI, Tableau) that consolidate disparate data sources, saving senior leadership significant time on manual data aggregation.
 
-![](https://github-readme-stats.vercel.app/api?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=arjun-unx&theme=gotham&hide_border=false)
-## _Why do I code?_
-
-> Because it’s amazing to see a simple idea take shape and become something real. 
-
-> I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.<br>
-
-> ![](https://github-profile-trophy.vercel.app/?username=arjun-unx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## Tools I use,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
@@ -36,6 +26,7 @@ AI & ML: Pandas, Numpy, Sckit-Learn, Scipy, Ploty, Sklearn, Keras, Tensorflow, D
 DevOps & Tools: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scripting, Figma
 
 ```
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaa615&layout=compact&theme=dark)
 
 ## Fun facts about me
 

@@ -28,12 +28,12 @@ Business & Project Management: Agile/Scrum, Business Process Modelling (BPMN), J
 
 ## Fun facts about me
 
-* I have a habit of obsessing over the tiniest details in my code.
-* I can lose track of time when I’m debugging (the best way to time travel, if you ask me).
-* I believe every problem has a solution; you just have to keep at it long enough to find it.
+* I have a 200-hour Hatha Yoga teacher training certification, and I also create content around mental health and wellness.
+* I have a hobby of learning about cybersecurity as well, and have obtained Comptia Security+ certification.
+* I once used complex SQL queries to analyze a 15% underutilization of crane capacity for a port logistics company
 
 ## Let’s connect
-I’d love to hear about what you’re working on or just chat about tech, learning, or anything else that’s interesting.
+I’m always open to discussing new data challenges, career opportunities, or connecting over our shared interests like Content Creation and Fitness.
 
 📫 **Email**: swarnaashree21@gmail.cmo
 💼 **LinkedIn**: https://www.linkedin.com/in/swarnaashree/
@@ -45,7 +45,7 @@ I’d love to hear about what you’re working on or just chat about tech, learn
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swarnaashree/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swarnaashree/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/itz_swarr)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

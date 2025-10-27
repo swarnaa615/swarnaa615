@@ -45,7 +45,7 @@ I’m always open to discussing new data challenges, career opportunities, or co
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/swarnaashree/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnaashree/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/itz_swarr)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
